@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 this is first line;
 hha
 three add
@@ -9,3 +8,4 @@ add  version3
 4
 create a new dev branch
 master modify
+hhaha
